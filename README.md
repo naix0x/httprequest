@@ -19,6 +19,8 @@ chmod +x ddos.sh
 #### 🖼 Blogger statistic
 
 <center><img src="Blogger-test1.png" width=160></center>
+<center><img src="Blogger-test2.png" width=160></center>
+
 
 ## 📝 License
 
