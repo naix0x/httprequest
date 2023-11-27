@@ -16,9 +16,9 @@ mv node_modules/httpflood ./
 chmod +x ddos.sh
 ```
 
-#### Test on blogger 
+#### 🖼 Blogger statistic
 
-<center><img src="Blogger-test1.png" width=300></center>
+<center><img src="Blogger-test1.png" width=160></center>
 
 ## 📝 License
 
