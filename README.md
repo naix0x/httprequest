@@ -1,7 +1,7 @@
 # HTTP FLOOD REQUEST
 
 
-[<img src="Layer7-HTTP'FLOOD.png" width=160>]
+[<img src="Layer7-HTTP'FLOOD.png" width=300>]
 
 ```bash
 npm install httpflood
