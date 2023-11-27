@@ -12,6 +12,10 @@ npm install httpsflood
 mv node_modules/httpflood ./
 ```
 
+```bash
+chmod +x ddos.sh
+```
+
 ## 📝 License
 
 This project is licensed under the [AGPL-3.0 License](https://github.com/naix0x/httprequest/blob/main/LICENSE).
