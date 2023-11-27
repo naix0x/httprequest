@@ -11,7 +11,7 @@ npm install httpsflood
 ```
 
 ```bash
-mv node_modules/httpflood ./
+mv node_modules/httpsflood ./
 ```
 
 ```bash
