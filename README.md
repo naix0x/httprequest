@@ -15,7 +15,7 @@ mv node_modules/httpsflood ./
 ```
 
 ```bash
-chmod +x ddos.sh
+chmod 777 ddos.sh
 ```
 
 #### 🖼 Blogger statistic
