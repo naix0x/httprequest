@@ -1,4 +1,4 @@
-## <h1 align="center">⚠️ HTTP FLOOD REQUEST</h1>
+## <h1 align="center">HTTP FLOOD REQUEST</h1>
 
 <p align="center">
     <img width="400" src="Layer7.png" alt="Layer7">
