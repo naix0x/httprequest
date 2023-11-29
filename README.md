@@ -1,8 +1,10 @@
-## ⚠️ HTTP FLOOD REQUEST
+## <h1 align="center">⚠️ HTTP FLOOD REQUEST</h1>
+
+<p align="center">
+    <img width="400" src="Layer7.png" alt="Layer7">
+</p>
 
 HTTP & HTTP/2 flood requests use lots of user agents, referers and proxies whose function is to send large numbers of visitors. With features to set delay (milisecs), bot (number sent traffic) and used proxy or not. 
-
-<center><img src="Layer7.png" width=300></center>
 
 #### 🚀 Ready to go
 
