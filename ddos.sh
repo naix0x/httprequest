@@ -46,7 +46,7 @@ set_proxy() {
 }
 
 # Print a colorful banner
-color_echo "$(figlet -f slant " HTTP - SIMULASI ")"
+color_echo "$(figlet -f slant " naix0x - flood ")"
 
 # Display protocol selection table
 color_echo "+----+------------+"
